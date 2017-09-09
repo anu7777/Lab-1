@@ -11,3 +11,4 @@ const resorts = [
 
 console.table(resorts);
 ```
+output- https://imgur.com/kWl3n8i
